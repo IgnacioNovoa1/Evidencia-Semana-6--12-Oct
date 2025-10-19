@@ -1,7 +1,8 @@
 
-public class Main {
+public class main {
 
     public static void main(String[] args) {
-        CarroCompra = new CarroCompra;
+        CarroCompra miCarro = new CarroCompra();
+        miCarro.mostrarTotal();
     }
 }

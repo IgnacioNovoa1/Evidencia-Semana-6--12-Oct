@@ -21,15 +21,8 @@ En el sistema se evidencia una relación del tipo dependencia, donde la clase "C
 
 ## III. Diagrama de Clases UML
 
-(Aquí incrustas la imagen de tu diagrama...)
 ![Diagrama UML](img/diagrama_uml.png)
 
 ## IV. Evidencias de Ejecución
 
-(Aquí incrustas tus capturas de pantalla...)
-
-**Estructura del Proyecto:**
-![Estructura IDE](img/estructura_proyecto.png)
-
-**Compilación Exitosa:**
-![Consola](img/compilacion.png)
+![Evidencia IDE](img/EvidenciaIDE_y_Compilación.png)
