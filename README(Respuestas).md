@@ -21,8 +21,8 @@ En el sistema se evidencia una relación del tipo dependencia, donde la clase "C
 
 ## III. Diagrama de Clases UML
 
-![Diagrama UML](img/diagrama_uml.png)
+![Diagrama Clases CarroCompraCalculadora](img/diagrama_uml.png)
 
 ## IV. Evidencias de Ejecución
 
-![Evidencia IDE](img/EvidenciaIDE_y_Compilación.png)
+![EvidenciaIDE y Compilación](img/EvidenciaIDE_y_Compilación.png)
