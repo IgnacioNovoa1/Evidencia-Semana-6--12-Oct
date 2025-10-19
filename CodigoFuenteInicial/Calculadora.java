@@ -15,7 +15,7 @@ public class Calculadora {
     }
 
     public int sumar() {
-        return this.n1 + this.n2
+        return this.n1 + this.n2;
     }
 
     public int multiplicar() {
