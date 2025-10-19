@@ -9,7 +9,7 @@ public class CarroCompra {
 		throw new UnsupportedOperationException();
 	}
 
-	private int subTotal() {
+	private int subTotal(int aN, int aN2) {
 		throw new UnsupportedOperationException();
 	}
 
